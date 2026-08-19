@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main div{
+    display: inline-block ;
+    border-style: groove;
+    width: 150px;
+    height: 150px;
+          
+}
+
+header div {
+    display: inline-block ;
+    border-style: groove;
+    width: 100px;
+    line-height: 50px; 
+
+}
+
+footer {
+    width: 50;
+    line-height: 50px;
+    border-style: groove;
+}
+
+span {
+    width: 50;
+    line-height: 50px;
+    border-style: groove;
+}
+
+h1 {
+    line-height: 60px;
+}
+
+h2  {
+    line-height: 40px;
+}
+
+a {
+    padding: 30px;
+
+}
